@@ -1,0 +1,7 @@
+# Define your MongoDB url here
+mongodb:
+    uri: "mongodb://URI"
+    database: "blackmarket"
+
+citizens:
+    npc-name: "Blackmarket"

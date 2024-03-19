@@ -1,0 +1,5 @@
+name: Blackmarket
+version: ${project.version}
+main: nl.bamischrijft.blackmarket.BlackmarketPlugin
+authors: [ BamiSchijf ]
+depend: ["helper", "Vault"]
